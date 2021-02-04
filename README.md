@@ -12,3 +12,8 @@ Ik ga mezelf uitdagen om buiten mijn comfort zone te gaan en SVG animaties te ma
 
 ### Schetsen
 Dit zijn de schetsen die ik gemaakt heb na de menu te lezen.
+![schets1](https://github.com/lamartm/css-to-the-rescue-2021/blob/master/schetsen/schets4.jpeg)
+![schets2](https://github.com/lamartm/css-to-the-rescue-2021/blob/master/schetsen/schets3.jpeg)
+![schets3](https://github.com/lamartm/css-to-the-rescue-2021/blob/master/schetsen/schets2.jpeg)
+![schets4](https://github.com/lamartm/css-to-the-rescue-2021/blob/master/schetsen/schets1.jpeg)
+Alle figuren die je ziet ga ik proberen te maken in SVG en sommige aspecten hiervan te animeren. 

@@ -11,4 +11,9 @@ Als eerst zal ik de general layout goed proberen te maken met CSS Grid. Dit doe 
 Ik ga mezelf uitdagen om buiten mijn comfort zone te gaan en SVG animaties te maken. Ik heb dit nooit eerder echt gedaan en zal me daarom ook meer in verdiepen in de komende weken, zodat dit ook iets wordt dat ik later zelf kan gebruiken.
 
 ### Schetsen
-Dit zijn de schetsen die ik gemaakt heb na de menu te lezen.
+Dit zijn de schetsen die ik gemaakt heb na de menu te lezen. Alle figuren die je hierin ziet ga ik proberen te maken in SVG en sommige aspecten hiervan te animeren. 
+![schets1](https://github.com/lamartm/css-to-the-rescue-2021/blob/master/schetsen/schets4.jpeg)
+![schets2](https://github.com/lamartm/css-to-the-rescue-2021/blob/master/schetsen/schets3.jpeg)
+![schets3](https://github.com/lamartm/css-to-the-rescue-2021/blob/master/schetsen/schets2.jpeg)
+![schets4](https://github.com/lamartm/css-to-the-rescue-2021/blob/master/schetsen/schets1.jpeg)
+

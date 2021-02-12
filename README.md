@@ -17,3 +17,39 @@ Dit zijn de schetsen die ik gemaakt heb na de menu te lezen. Alle figuren die je
 ![schets3](https://github.com/lamartm/css-to-the-rescue-2021/blob/master/schetsen/schets2.jpeg)
 ![schets4](https://github.com/lamartm/css-to-the-rescue-2021/blob/master/schetsen/schets1.jpeg)
 
+## Week 2
+
+### :first-child
+Ik heb deze week veel met selectoren gewerkt en gespeeld om ze beter te begrijpen. Zo gebruik ik nu in mijn CSS alleen selectoren. 
+```
+section:first-child header {
+    position: relative;
+    display: flex;
+}
+```
+### Sessie vormpjes maken
+Bij de sessie vormpjes maken zag ik dat je met CSS meer creatieve kracht heb dan ik had gedacht. Ik wou eerst vooral met SVG's werken om de vormpjes te maken die ik in gedachte had, maar nu zal ik dat met vooral HTML en CSS doen. De meer complexe vormpjes kunnen wel mogelijk met SVG gedaan worden, maar ik zal mezelf proberen uit te dagen en dit niet te doen.
+
+Na de sessie ging ik gelijk het zelf proberen te maken in mijn code. Dit was dan het resultaat:
+![noshes](https://github.com/lamartm/css-to-the-rescue-2021/blob/master/schetsen/noshes.PNG)
+
+Door linear-gradients (met een transparent gedeelte) te gebruiken als background images in een before & after kan je de ribbon achtige vorm maken:
+```
+section:first-child header::after, 
+section:first-child header::before {
+    content: "";
+    position: absolute;
+    width: 3.5em;
+    height: 2.9em;
+    bottom:-.6em;
+    background-image: 
+    linear-gradient(to left top, transparent 50%, rgb(41, 40, 40) 50%),
+    linear-gradient(to left bottom, transparent 50%, rgb(41, 40, 40) 50%);
+    z-index: -1;
+}
+```
+### Eerste versie
+Dit is dan nu mijn eerste versie:
+![v1](https://github.com/lamartm/css-to-the-rescue-2021/blob/master/schetsen/v1.PNG)
+
+Er is nog niet veel, maar ik zat me deze week meer te verdiepen in de verschillende manieren om vormpjes te maken in CSS. 

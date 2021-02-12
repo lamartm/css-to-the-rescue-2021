@@ -31,6 +31,7 @@ section:first-child header {
 Bij de sessie vormpjes maken zag ik dat je met CSS meer creatieve kracht heb dan ik had gedacht. Ik wou eerst vooral met SVG's werken om de vormpjes te maken die ik in gedachte had, maar nu zal ik dat met vooral HTML en CSS doen. De meer complexe vormpjes kunnen wel mogelijk met SVG gedaan worden, maar ik zal mezelf proberen uit te dagen en dit niet te doen.
 
 Na de sessie ging ik gelijk het zelf proberen te maken in mijn code. Dit was dan het resultaat:
+
 ![noshes](https://github.com/lamartm/css-to-the-rescue-2021/blob/master/schetsen/noshes.PNG)
 
 Door linear-gradients (met een transparent gedeelte) te gebruiken als background images in een before & after kan je de ribbon achtige vorm maken:
